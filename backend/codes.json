@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "Mario",
+    "cognome": "Rossi",
+    "qr_code": "a1b2c3d4-e5f6-7890-1234-56789abcdef0",
+    "spese_fatte": 0,
+    "data_nascita": "01/01/2000"
+  },
+  {
+    "nome": "Sars",
+    "cognome": "Rodigars",
+    "data_nascita": "2001-02-02",
+    "qr_code": "8661a30-d708-4d72-a395-53696e7666ef",
+    "spese_fatte": 0
+  },
+  {
+    "nome": "Carlo",
+    "cognome": "Bianchi",
+    "data_nascita": "2003-03-03",
+    "qr_code": "013cae2-f2ee-4c99-80b2-5dc74f23f82f",
+    "spese_fatte": 0
+  }
+]
